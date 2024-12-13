@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Pink Premium Long Ugly Sweater - Winter Comfort",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "pink-sweater.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pink Premium Long Ugly Sweater - Winter Comfort",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "pink-sweater-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wireless-AC3000 Dual Band Gigabit Router RT-AC88U",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "router.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sonybest Noise-Canceling BGM Headphone",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "headphones.jpg"
+    },
+    {
+      "id": 5,
+      "name": "SMU3, Premium T-shirt Fabric soft and comfortable",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "tshirt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Phillips Pro Blend 6 Powerful Blender & Meat Grinder",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "blender.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sonybest Noise-Canceling BGM Headphone",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "headphones-2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "SMU3, Premium T-shirt Fabric soft and comfortable",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "tshirt-2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "AMD Ryzen 7 5700G 8 Core 16 Thread APU Processor",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "amd-ryzen.jpg"
+    },
+    {
+      "id": 10,
+      "name": "High-Heel Shoes - Red Fashion",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "heels.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Yellow Handbag - Stylish & Durable",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "handbag.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Logitech G304 LIGHTSPEED Wireless Gaming Mouse (Black)",
+      "price": 223.99,
+      "original_price": 567.60,
+      "rating": 4.5,
+      "reviews": 69,
+      "image": "gaming-mouse.jpg"
+    }
+  ]
+  
