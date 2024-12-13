@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Showcase</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    backgroundImage: {
+                        'custom-gradient1':'linear-gradient(106.08deg, #62CDFF 27.55%, #0080C2 123.52%)',
+                        'custom-gradient2': 'linear-gradient(293.77deg, #62CDFF 0%, rgba(98, 205, 255, 0.4) 332.62%)',
+                        
+                    },
+                },
+            },
+        };
+    </script>
+</head>
+<body>
+    <section class="bg-white mt-5 h-[712px] max-w-[1608px] mx-auto px-4">
+       <!-- parent div -->
+        <div class="flex text-white gap-5">
+            <!-- left side -->
+             <div>
+                <!-- top -->
+                 <div class="bg-custom-gradient1 flex h-[276px] w-[520px]">
+                    <div class="border-3 relative ">
+                        <div class="pt-8 pl-8">
+                            <span class="text-2xl">Novembers <br> Gadget Madness</span>
+                            <p class="text-[#173459] text-5xl mt-2">20% OFF</p>
+                        </div>
+                        <div class="absolute bottom-8 pl-8">
+                            <button class="btn rounded-full bg-[#F6F54D]  text-[#0C1230] text-xs px-8 py-2.5">Get Offer</button>
+                        </div>
+                    </div>
+                    <div>
+                        <img src="./assets/headPhone.png" alt="">
+                    </div>
+                 </div>
+                 <!-- bottom -->
+                  <div class="bg-[#F4F300] mt-5 h-[412px] w-[520px]">
+                    <p class="text-[#101828] text-center text-xl pt-5">Cyber Monday Special</p>
+                    <h1 class="text-[#00142E] font-bold text-center text-4xl">HOME APPLIANCES</h1>
+                    <img src="./assets/watch.png" alt="" class="pt-5">
+                  </div>
+             </div>
+             <!-- right side -->
+              <div class="bg-custom-gradient2 flex relative">
+                <div class="text-[#101828] pl-9 pt-9">
+                    <p class="text-xl">WINTER 2024 Offer</p>
+                    <h2 class="text-6xl w-[508px]">Grab the best <br> fashion deals in <br> this winter</h2>
+                </div>
+                <div>
+                    <img src="./assets/women.png" alt="" class="w-[510px] h-full">
+                </div>
+                <div class="absolute inset-0 flex justify-center items-center">
+                    <button class="bg-[#FFFFFF] text-[#1D2939] px-4 py-2 gap-2 text-xl rounded-3xl flex"><img src="./assets/ball.png" alt="">95% COTTON MADE</button>
+                  </div>
+              </div>
+        </div>
+    </section>
+</body>
+</html>
