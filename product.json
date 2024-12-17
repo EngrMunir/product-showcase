@@ -6,7 +6,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "pink-sweater.jpg"
+      "image": "https://i.ibb.co.com/h9k8wqV/Product-Image-4.png"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "pink-sweater-2.jpg"
+      "image": "https://i.ibb.co.com/hcXLhXJ/Product-Image-5.png"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "router.jpg"
+      "image": "https://i.ibb.co.com/bRgBGzW/Product-Image-6.png"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "headphones.jpg"
+      "image": "https://i.ibb.co.com/9wFvFQK/Product-Image-7.png"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "tshirt.jpg"
+      "image": "https://i.ibb.co.com/3W4NPbw/Product-Image-9.png"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "blender.jpg"
+      "image": "https://i.ibb.co.com/VSdD7W0/Product-Image-15.png"
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "headphones-2.jpg"
+      "image": "https://i.ibb.co.com/Rv8FXCs/Product-Image-17.png"
     },
     {
       "id": 8,
@@ -69,7 +69,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "tshirt-2.jpg"
+      "image": "https://i.ibb.co.com/61QNs33/Product-Image-18.png"
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "amd-ryzen.jpg"
+      "image": "https://i.ibb.co.com/KN11vCZ/Product-Image.png"
     },
     {
       "id": 10,
@@ -87,7 +87,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "heels.jpg"
+      "image": "https://i.ibb.co.com/17WLdPR/Product-Image-3.png"
     },
     {
       "id": 11,
@@ -96,7 +96,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "handbag.jpg"
+      "image": "https://i.ibb.co.com/mT7CNJK/Product-Image-2.png"
     },
     {
       "id": 12,
@@ -105,7 +105,7 @@
       "original_price": 567.60,
       "rating": 4.5,
       "reviews": 69,
-      "image": "gaming-mouse.jpg"
+      "image": "https://i.ibb.co.com/cCgYnzW/Product-Image-1.png"
     }
   ]
   
